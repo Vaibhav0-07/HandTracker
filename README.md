@@ -53,6 +53,9 @@ python hand_tracking.py
 
 The program will display a window showing the webcam feed with hand landmarks and their connections. The FPS will be displayed in the top left corner or may be in the task bar(When open in background).
 
+## Testing
+
+To test run the code ,run it in a integrated terminal. 
 
 ## Contributing
 
